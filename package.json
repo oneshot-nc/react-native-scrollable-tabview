@@ -1,0 +1,24 @@
+{
+	"name": "react-native-scrollable-tabview",
+	"version": "1",
+	"description": "",
+	"main": "lib/index.js",
+	"scripts": {
+		"lint": "eslint -c .eslintrc . --ignore-path .gitignore",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"react-native-component",
+		"react-component",
+		"react-native",
+		"ios",
+		"tab",
+		"scrollable"
+	],
+	"license": "MIT",
+	"peerDependencies": {},
+	"dependencies": {
+		"deprecated-react-native-prop-types": "^2.3.0"
+	},
+	"devDependencies": {}
+}
